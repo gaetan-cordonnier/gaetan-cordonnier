@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! Come as you are</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaetancordonnier/">Linkedin</a> •
-  <a href="https://gaetan-cordonnier.welovedevs.com/">W♡D</a>
+  <a href="https://www.linkedin.com/in/gaetancordonnier/" target="_blank">Linkedin</a> •
+  <a href="https://gaetan-cordonnier.welovedevs.com/" target="_blank">W♡D</a>
 </p>
 
 I'm a __junior web developer__ based in __France__. I love learning web development and all kinds of other things online and I'm ready for discussions and making new projects.
