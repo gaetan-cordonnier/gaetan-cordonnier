@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 I'm a __junior web developer__ based in __France__. I love learning web development and all kinds of other things online and I'm ready for discussions and making new projects.
 
 * 🎓 Currently learning at [Wild Code School](https://www.wildcodeschool.com/) <br/>
-* 🔖 Discover my [Curriculum Vitae](https://drive.google.com/file/d/1YRHlIJbTOLfUIFFkvBjIQwRPHL_Rjd6d/view?usp=sharing)<br/>
 * 📫 Contact me [@G_Cordonnier](https://twitter.com/G_Cordonnier)
 
 ## My skills
